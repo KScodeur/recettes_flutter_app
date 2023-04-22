@@ -30,6 +30,8 @@ environment:
 dependencies:
   auto_size_text: ^3.0.0
   transparent_image: ^2.0.1
+  sqflite: any
+  path: any
   flutter:
     sdk: flutter
 
